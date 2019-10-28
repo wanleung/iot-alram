@@ -1,0 +1,2 @@
+#!/bin/bash
+plackup -p 9000 -r bin/app.psgi
